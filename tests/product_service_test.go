@@ -1,9 +1,9 @@
-package service_test
+package tests_test
 
 import (
 	"github.com/golang/mock/gomock"
-	"pet_tests/mocks"
 	"pet_tests/pkg/service"
+	"pet_tests/tests/mocks"
 	"testing"
 )
 
