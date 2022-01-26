@@ -2,8 +2,8 @@ package tests_test
 
 import (
 	"github.com/golang/mock/gomock"
-	"pet_tests/pkg/service"
-	"pet_tests/tests/mocks"
+	"pet_tests/internal/service"
+	"pet_tests/pkg/tests/mocks"
 	"testing"
 )
 

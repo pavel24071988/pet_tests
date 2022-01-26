@@ -1,9 +1,9 @@
-package tests
+package tests_test
 
 import (
 	"fmt"
 	"github.com/stretchr/testify/assert"
-	"pet_tests/pkg/helper"
+	"pet_tests/internal/helper"
 	"testing"
 )
 
