@@ -3,7 +3,7 @@ package tests_test
 import (
 	"github.com/golang/mock/gomock"
 	"pet_tests/internal/service"
-	"pet_tests/pkg/tests/mocks"
+	"pet_tests/tests/mocks"
 	"testing"
 )
 
