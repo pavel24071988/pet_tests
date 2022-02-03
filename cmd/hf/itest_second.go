@@ -31,7 +31,10 @@ func TryVehicle(vehicle Vehicle) {
 	vehicle.Steer("left")
 	vehicle.Steer("right")
 	vehicle.Brake()
+
 	truck, ok := vehicle.(Truck)
+	fmt.Println(ok)
+
 	if ok {
 		truck.LoadCargo("test cargo")
 	}

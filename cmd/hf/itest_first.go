@@ -37,13 +37,13 @@ func (t Truck) LoadCargo(cargo string) {
 	Brake()
 	Steer(string)
 }*/
-
+/*
 func main() {
-	/*var vehicle Vehicle = Car("Toyota Yarvic")
+	var vehicle Vehicle = Car("Toyota Yarvic")
 	vehicle.Accelerate()
-	vehicle.Steer("left")*/
+	vehicle.Steer("left")
 
-	/*vehicle = Truck("Fnord F180")
+	vehicle = Truck("Fnord F180")
 	vehicle.Brake()
-	vehicle.Steer("right")*/
-}
+	vehicle.Steer("right")
+}*/
